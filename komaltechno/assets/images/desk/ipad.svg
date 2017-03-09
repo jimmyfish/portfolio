@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-566 1000 114.9 149" style="enable-background:new -566 1000 114.9 149;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#232323;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#333333;}
+	.st3{fill:#9F9F9F;}
+	.st4{fill:#E5E1D0;}
+	.st5{fill:#C1BFB4;}
+	.st6{fill:#353434;}
+	.st7{fill:#666666;}
+</style>
+<g id="ipad">
+	<g>
+		<path class="st0" d="M-458.3,1149h-100.4c-4,0-7.3-3.3-7.3-7.3v-134.4c0-4,3.3-7.3,7.3-7.3h100.3c4,0,7.3,3.3,7.3,7.3v134.4
+			C-451,1145.7-454.3,1149-458.3,1149z"/>
+		<rect x="-559" y="1034" class="st1" width="100" height="97"/>
+		<ellipse class="st2" cx="-508.5" cy="1139.5" rx="4.5" ry="4.5"/>
+		<circle class="st2" cx="-508" cy="1009" r="2"/>
+		<g id="header_1_">
+			<g>
+				<rect x="-559" y="1018" class="st3" width="100" height="16"/>
+			</g>
+			<g>
+				<ellipse class="st1" cx="-548.2" cy="1025.9" rx="4.2" ry="4.2"/>
+			</g>
+			<g>
+				<g>
+					<rect x="-473" y="1022" class="st1" width="9" height="1"/>
+				</g>
+				<g>
+					<rect x="-473" y="1025" class="st1" width="9" height="1"/>
+				</g>
+				<g>
+					<rect x="-473" y="1028" class="st1" width="9" height="1"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<rect x="-553" y="1040" class="st4" width="89" height="85"/>
+		</g>
+		<g>
+			<g>
+				<rect x="-507" y="1055" class="st5" width="34" height="2"/>
+			</g>
+			<g>
+				<rect x="-507" y="1062" class="st5" width="34" height="2"/>
+			</g>
+			<g>
+				<rect x="-507" y="1069" class="st5" width="24" height="2"/>
+			</g>
+		</g>
+		<g>
+			<rect x="-543" y="1050" class="st6" width="27" height="27"/>
+		</g>
+		<g>
+			<g>
+				<rect x="-507" y="1091" class="st5" width="34" height="2"/>
+			</g>
+			<g>
+				<rect x="-507" y="1098" class="st5" width="34" height="2"/>
+			</g>
+			<g>
+				<rect x="-507" y="1105" class="st5" width="24" height="2"/>
+			</g>
+		</g>
+		<g>
+			<rect x="-543" y="1086" class="st6" width="27" height="27"/>
+		</g>
+		<g>
+			<path class="st7" d="M-536,1062c1.1,0,2-0.9,2-2s-0.9-2-2-2s-2,0.9-2,2S-537.1,1062-536,1062z"/>
+			<polygon class="st7" points="-527,1063 -533,1068 -536,1065 -541,1069 -541,1074 -519,1074 -519,1068 			"/>
+		</g>
+		<g>
+			<path class="st7" d="M-536,1098c1.1,0,2-0.9,2-2s-0.9-2-2-2s-2,0.9-2,2S-537.1,1098-536,1098z"/>
+			<polygon class="st7" points="-527,1099 -533,1103 -536,1101 -541,1104 -541,1110 -519,1110 -519,1104 			"/>
+		</g>
+	</g>
+</g>
+</svg>

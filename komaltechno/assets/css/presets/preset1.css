@@ -1,0 +1,61 @@
+a,
+#home-slider .caption h1 span, 
+#twitter-carousel .item span, 
+#footer .footer-bottom, 
+#single-portfolio .close-folio-item:hover, 
+.single-table.featured .btn.btn-primary, 
+.contact-info ul li a:hover, 
+#footer .footer-bottom a  {
+  color: #028fcc;
+}
+
+.btn.btn-primary:hover,
+.btn-submit:hover {
+  background-color: #027db3
+}
+
+a:hover, a:focus {
+	color: #027db3;
+}
+
+.main-nav, 
+.service-icon, 
+.progress-bar.progress-bar-primary, 
+.single-table.featured, 
+.btn.btn-primary, 
+.twitter-icon .fa-twitter, 
+.twitter-left-control:hover, .twitter-right-control:hover, 
+.post-icon, 
+.entry-header .date:after, 
+.btn-loadmore:hover, 
+.btn-submit,
+#footer, 
+.caption .btn-start:hover, 
+.left-control:hover, 
+.right-control:hover, 
+.folio-overview a:hover {
+  background-color:#3498db;
+}
+
+.twitter-left-control:hover, 
+.twitter-right-control:hover, 
+.btn-loadmore:hover  {
+	border: 1px solid #3498db;
+}
+
+.caption .btn-start:hover, 
+.left-control:hover, 
+.right-control:hover {
+	border-color: #3498db;
+}
+
+.twitter-icon .fa-twitter:after {
+	border-color: #3498db transparent transparent;
+}
+
+.main-nav, .service-icon{
+	border-bottom:5px solid #2980b9;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
